@@ -1,1 +1,1 @@
-THIS IS A BASIC HOUSE PRICE PREDICITON MODEL UTILIZING PYTHON AND YOU CAN PRETTY MUCH USE IT FOR ANY CITY JUST CHANGE THE DATA COLLECTED TO MATCH YOU'RE WANTED PLACE. 
+This is a basic house prediction model using Python. If you want to update it for you're own use, update the data for you're given city.
